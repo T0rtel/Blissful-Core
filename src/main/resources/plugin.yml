@@ -1,0 +1,4 @@
+name: BlissfulCore
+version: '${project.version}'
+main: tortel.blissfulcore.Main
+api-version: '1.20'
